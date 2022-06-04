@@ -7,7 +7,7 @@ a=input("What is your name?: ")
 # Welcoming the user.
 print ("\t\tWelcome to the Python Quiz " + a, "!!", "\n")
 
-# Asking user to start the Quiz
+# Asking user to start the Quiz By Pressing any Number key.
 x=float(input("Type any number to start the quiz : "))
 
 if x >= 0 :
